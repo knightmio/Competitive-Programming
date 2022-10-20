@@ -1,0 +1,3 @@
+﻿  2022-D.cpp
+C:\Users\Administrator\Documents\下午茶\divisional-2019\2022-D\2022-D\2022-D.cpp(16,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  2022-D.vcxproj -> C:\Users\Administrator\Documents\下午茶\divisional-2019\2022-D\Debug\2022-D.exe

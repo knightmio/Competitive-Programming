@@ -1,0 +1,11 @@
+﻿  896-A.cpp
+C:\Users\Administrator\Documents\下午茶\896-A\896-A\896-A.cpp(35,42): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\896-A\896-A\896-A.cpp(36,34): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\896-A\896-A\896-A.cpp(37,35): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\896-A\896-A\896-A.cpp(41,42): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\896-A\896-A\896-A.cpp(42,21): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\896-A\896-A\896-A.cpp(43,35): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\896-A\896-A\896-A.cpp(45,24): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\896-A\896-A\896-A.cpp(46,21): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\896-A\896-A\896-A.cpp(47,23): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+  896-A.vcxproj -> C:\Users\Administrator\Documents\下午茶\896-A\Debug\896-A.exe

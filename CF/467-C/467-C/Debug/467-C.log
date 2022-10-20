@@ -1,0 +1,11 @@
+﻿  467-C.cpp
+C:\Users\Administrator\Documents\下午茶\467-C\467-C\467-C.cpp(21,21): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\467-C\467-C\467-C.cpp(25,21): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\467-C\467-C\467-C.cpp(26,22): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\467-C\467-C\467-C.cpp(31,20): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\467-C\467-C\467-C.cpp(31,70): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\467-C\467-C\467-C.cpp(31,88): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\467-C\467-C\467-C.cpp(35,16): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\467-C\467-C\467-C.cpp(14,18): warning C4101: “a”: 未引用的局部变量
+C:\Users\Administrator\Documents\下午茶\467-C\467-C\467-C.cpp(14,21): warning C4101: “b”: 未引用的局部变量
+  467-C.vcxproj -> C:\Users\Administrator\Documents\下午茶\467-C\Debug\467-C.exe

@@ -1,0 +1,3 @@
+﻿  J.cpp
+C:\Users\Administrator\Documents\下午茶\divisional\J\J\J.cpp(13,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  J.vcxproj -> C:\Users\Administrator\Documents\下午茶\divisional\J\Debug\J.exe

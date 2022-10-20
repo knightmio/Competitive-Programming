@@ -1,0 +1,4 @@
+﻿  1582-E.cpp
+C:\Users\Administrator\Documents\下午茶\1582-E\1582-E\1582-E.cpp(11,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\1582-E\1582-E\1582-E.cpp(13,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  1582-E.vcxproj -> C:\Users\Administrator\Documents\下午茶\1582-E\Debug\1582-E.exe

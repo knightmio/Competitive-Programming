@@ -1,0 +1,9 @@
+BerryPacker
+
+Tag: Geedy, Brute force, Bitmask
+
+You can put between 1 and 9 berries, inclusive, in each box. The number of boxes is range between (berries / 9 + 1) and (berries). For each number of box n, we first put one berry in each box to make them valid. Then we greedily fill boxes that has the highest weight. The maximum number of inspector is 5, calculate the weight for adding one berry in each inspector only and sum up all 2^5 = 32 combinations of weight. Sort them in descending order to greedily arrange (berries - n) left.
+
+How to calculate the number of boxes for each state? Preprocess the state of each box index from 1 to berries, present the state in a number of inspector (m) digit binary number - for example state[i] = 11001 = 25 represent that the ith box will be inspected by the first, fourth and fifth inspector. We save a 2^m size array for calculating the number of each state and adding the corresponding one throughout traversing n. 
+
+Thus in total, we traverse every possible box num O(n) = 1e5, in each traverse we calculate the weight for all combinations O(2^m) = 32 combinations in total, O(m) = 5 adding operation in each combination. The time complexity is O(n * (2^m) * m) = 1e7.

@@ -1,0 +1,4 @@
+﻿  808-D.cpp
+C:\Users\Administrator\Documents\下午茶\808-D\808-D\808-D.cpp(42,18): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\下午茶\808-D\808-D\808-D.cpp(47,20): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+  808-D.vcxproj -> C:\Users\Administrator\Documents\下午茶\808-D\Debug\808-D.exe
