@@ -1,0 +1,14 @@
+﻿  D2.cpp
+D:\Competitive Programming\Competitive-Programming\CF\1732\D2\D2\D2.cpp(27,35): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1732\D2\D2\D2.cpp(28,30): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1732\D2\D2\D2.cpp(33,35): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1732\D2\D2\D2.cpp(34,31): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1732\D2\D2\D2.cpp(39,21): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1732\D2\D2\D2.cpp(40,30): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1732\D2\D2\D2.cpp(44,34): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1732\D2\D2\D2.cpp(44,47): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  D2.vcxproj -> D:\Competitive Programming\Competitive-Programming\CF\1732\D2\Debug\D2.exe
