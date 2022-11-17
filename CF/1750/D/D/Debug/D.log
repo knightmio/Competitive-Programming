@@ -1,0 +1,34 @@
+﻿  D.cpp
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(12,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(13,20): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(14,16): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(47,22): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(48,30): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(49,17): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(49,22): warning C4244: “=”: 从“__int64”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(50,20): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(51,17): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(51,24): warning C4244: “=”: 从“__int64”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(54,38): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(55,24): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(56,19): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(57,22): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(57,34): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(57,57): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(58,19): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(58,31): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(58,46): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1750\D\D\D.cpp(58,59): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+  D.vcxproj -> D:\Competitive Programming\Competitive-Programming\CF\1750\D\Debug\D.exe
