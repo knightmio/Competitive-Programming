@@ -1,0 +1,7 @@
+﻿  A.cpp
+D:\Competitive Programming\Competitive-Programming\CF\1686\A\A\A.cpp(29,42): warning C4244: “参数”: 从“__int64”转换到“const _Kty”，可能丢失数据
+          with
+          [
+              _Kty=int
+          ]
+  A.vcxproj -> D:\Competitive Programming\Competitive-Programming\CF\1686\A\Debug\A.exe
