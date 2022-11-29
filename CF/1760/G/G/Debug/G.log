@@ -1,0 +1,46 @@
+﻿  G.cpp
+D:\Competitive Programming\Competitive-Programming\CF\1760\G\G\G.cpp(24,16): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1760\G\G\G.cpp(24,29): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\Competitive Programming\Competitive-Programming\CF\1760\G\G\G.cpp(25,16): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\CF\1760\G\G\G.cpp(25,29): warning C4244: “参数”: 从“__int64”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\Competitive Programming\Competitive-Programming\CF\1760\G\G\G.cpp(35,34): warning C4244: “参数”: 从“_Ty”转换到“const int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+D:\Competitive Programming\Competitive-Programming\CF\1760\G\G\G.cpp(46,34): warning C4244: “参数”: 从“_Ty”转换到“const int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\utility(152,16): warning C4244: “初始化”: 从“__int64”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty1=int
+          ]
+D:\Competitive Programming\Competitive-Programming\CF\1760\G\G\G.cpp(26): message : 查看对正在编译的函数 模板 实例化“std::pair<int,int>::pair<__int64&,__int64&,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=__int64 &,
+              _Other2=__int64 &
+          ]
+D:\Competitive Programming\Competitive-Programming\CF\1760\G\G\G.cpp(26): message : 查看对正在编译的函数 模板 实例化“std::pair<int,int>::pair<__int64&,__int64&,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=__int64 &,
+              _Other2=__int64 &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\utility(152,1): warning C4244: “初始化”: 从“__int64”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+  G.vcxproj -> D:\Competitive Programming\Competitive-Programming\CF\1760\G\Debug\G.exe
