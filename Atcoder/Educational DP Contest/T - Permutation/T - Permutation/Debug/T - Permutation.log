@@ -1,0 +1,4 @@
+﻿  T - Permutation.cpp
+D:\Competitive Programming\Competitive-Programming\Atcoder\Educational DP Contest\T - Permutation\T - Permutation\T - Permutation.cpp(12,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Competitive Programming\Competitive-Programming\Atcoder\Educational DP Contest\T - Permutation\T - Permutation\T - Permutation.cpp(12,35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  T - Permutation.vcxproj -> D:\Competitive Programming\Competitive-Programming\Atcoder\Educational DP Contest\T - Permutation\Debug\T - Permutation.exe

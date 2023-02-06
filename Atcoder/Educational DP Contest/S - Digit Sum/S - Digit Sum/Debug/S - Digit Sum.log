@@ -1,0 +1,8 @@
+﻿  S - Digit Sum.cpp
+D:\Competitive Programming\Competitive-Programming\Atcoder\Educational DP Contest\S - Digit Sum\S - Digit Sum\S - Digit Sum.cpp(25,56): warning C4244: “return”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+D:\Competitive Programming\Competitive-Programming\Atcoder\Educational DP Contest\S - Digit Sum\S - Digit Sum\S - Digit Sum.cpp(42,10): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  S - Digit Sum.vcxproj -> D:\Competitive Programming\Competitive-Programming\Atcoder\Educational DP Contest\S - Digit Sum\Debug\S - Digit Sum.exe
